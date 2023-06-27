@@ -9,7 +9,7 @@ profile:
   image: sami.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>907 Niels Henrik Abels hus</p>
+    <p>907 Niels Henrik Abels Hus</p>
     <p>University of  Oslo</p>
 
 news: false  # includes a list of news items
@@ -22,8 +22,8 @@ I am a postdoctoral research fellow in the Department of Mathematics at the Univ
 
 <p>Some examples of problems I have worked on include:
 <ul>
-  <li>Active liquid crystals on deformable surfaces as a model of epithelial morphogenesis</li>
-  <li>Odd elasticity in chiral membranes and its role in left-right symmetry breaking</li>
+  <li>Active liquid crystals on deformable surfaces as a model of epithelial morphogenesis,</li>
+  <li>Odd elasticity in chiral membranes and its role in left-right symmetry breaking,</li>
   <li>The role of ATP in controlling actomyosin structure.</li>
 </ul>
 More recently I have begun working on problems in active wetting as a model of autophagy, the mechanism by which cells recycle and clear waste.
