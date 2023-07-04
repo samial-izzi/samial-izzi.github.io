@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Marie Skłodowska–Curie Postdoctoral Research Fellow 
 
